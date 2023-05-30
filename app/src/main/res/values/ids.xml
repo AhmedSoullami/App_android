@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imgProfile" type="id" />
+    <item name="btnSave" type="id" />
+    <item name="labelNom" type="id" />
+    <item name="txtNom" type="id" />
+    <item name="labelPrenom" type="id" />
+    <item name="txtPrenom" type="id" />
+    <item name="labelRemarque" type="id" />
+    <item name="txtRemarque" type="id" />
+    <item name="txtClasse" type="id" />
+    <item name="labelClasse" type="id" />
+    <item name="Icone" type="id" />
+    <item name="txtMatière" type="id" />
+    <item name="txtScore" type="id" />
+    <item name="notes" type="id" />
+    <item name="btnCall" type="id" />
+    <item name="btnAddNote" type="id" />
+    <item name="newMat" type="id" />
+    <item name="newScore" type="id" />
+    <item name="addNote" type="id" />
+</resources>

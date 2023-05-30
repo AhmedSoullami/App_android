@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My_App_Perso</string>
+    <string name="enregistrer">ENREGISTRER</string>
+    <string name="nom">Nom :</string>
+    <string name="prenom">Prénom :</string>
+    <string name="remarque">Remarque</string>
+    <string name="clickmsg">Click sur le bouton</string>
+    <string name="classe">Classe :</string>
+    <string name="matiere">Matière</string>
+    <string name="new_score">New Score</string>
+    <string name="ajouter">AJOUTER</string>
+</resources>
